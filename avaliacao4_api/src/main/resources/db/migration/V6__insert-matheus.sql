@@ -1,0 +1,1 @@
+INSERT INTO usuarios (login, senha) VALUES ('matheus@gmail.com', '$2a$12$UN7scdLorysrvqlcpCPN/ORCjD.g0cXk6yJyT88a0SeWNCzt4XUWC');
